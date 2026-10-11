@@ -2,7 +2,6 @@
 # 👋 Hi, I'm Wanderley!
 
 🚀 Aspiring Backend Developer
-<img width="500" height="281" alt="AnimationTechGIFbyButlerm (2)" src="https://github.com/user-attachments/assets/b8e2c24a-c5cd-45e1-9272-c3c02b9a1d5e" />
 
 💻 JavaScript | Node.js | REST APIs
 
